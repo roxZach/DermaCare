@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+numpy>=1.26
+pillow>=10.0
+opencv-python-headless>=4.9
+scikit-learn>=1.4
+torch>=2.2
+torchvision>=0.17
+timm>=0.9
+# Optional: better chatbot matching (downloads a ~90 MB model the first time)
+# sentence-transformers>=2.7

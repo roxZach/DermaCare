@@ -1,0 +1,327 @@
+[
+  {
+    "category": "Clinic",
+    "question": "What are your opening hours?",
+    "paraphrases": [
+      "When are you open?",
+      "What time does the clinic open and close?",
+      "Are you open on weekends?",
+      "clinic timing"
+    ],
+    "answer": "The clinic is open Saturday to Thursday from 9:00 am to 9:00 pm, and on Friday from 3:00 pm to 8:00 pm. Each dermatologist has their own schedule, which you can see on their profile page."
+  },
+  {
+    "category": "Clinic",
+    "question": "Where is the clinic located?",
+    "paraphrases": [
+      "What is your address?",
+      "How do I get to the clinic?",
+      "clinic location"
+    ],
+    "answer": "We are at 12 Example Road, City Centre, on the 2nd floor of the medical tower. The address and a map link are in the footer of the website."
+  },
+  {
+    "category": "Clinic",
+    "question": "How can I contact the clinic?",
+    "paraphrases": [
+      "What is your phone number?",
+      "How do I call you?",
+      "Do you have an email address?"
+    ],
+    "answer": "You can call the front desk during opening hours or email info@dermacare.test. For questions about your own treatment, please log in and use teledermatology or book an appointment."
+  },
+  {
+    "category": "Clinic",
+    "question": "Do you accept walk-in patients?",
+    "paraphrases": [
+      "Can I come without an appointment?",
+      "Do I need an appointment?",
+      "walk in"
+    ],
+    "answer": "Yes, the reception desk can register walk-in patients and book the next free slot, but waiting times can be long. Booking online is faster."
+  },
+  {
+    "category": "Appointments",
+    "question": "How do I book an appointment?",
+    "paraphrases": [
+      "How can I make an appointment?",
+      "I want to see a dermatologist",
+      "book a doctor online",
+      "schedule a visit"
+    ],
+    "answer": "Create a free account (or log in), go to Appointments and click 'Book appointment'. Choose a dermatologist, a date and one of the free time slots. You will get a confirmation notification."
+  },
+  {
+    "category": "Appointments",
+    "question": "How do I cancel or reschedule my appointment?",
+    "paraphrases": [
+      "Can I change my appointment time?",
+      "I need to cancel my booking",
+      "move my appointment to another day"
+    ],
+    "answer": "Log in, open Appointments and click 'Reschedule' or 'Cancel'. Online cancellation is possible up to 2 hours before the appointment; after that, please call the clinic."
+  },
+  {
+    "category": "Appointments",
+    "question": "What should I bring to my appointment?",
+    "paraphrases": [
+      "What do I need for my first visit?",
+      "documents for appointment",
+      "what to bring"
+    ],
+    "answer": "Bring a photo ID, a list of medicines you use (including creams), any previous skin reports or biopsy results, and photos of the problem if it comes and goes. Please do not wear make-up or nail polish if the problem is on the face or nails."
+  },
+  {
+    "category": "Appointments",
+    "question": "How long does a consultation take?",
+    "paraphrases": [
+      "How long is the appointment?",
+      "duration of the visit"
+    ],
+    "answer": "A standard consultation slot is 20 minutes. Full-body mole mapping and procedures take longer; reception will tell you when you book."
+  },
+  {
+    "category": "Appointments",
+    "question": "Can I choose my dermatologist?",
+    "paraphrases": [
+      "Can I pick a specific doctor?",
+      "choose doctor",
+      "which doctor should I see"
+    ],
+    "answer": "Yes. When booking, you can choose any dermatologist and see their specialty, experience and free time slots. For mole checks, choose a doctor with dermato-oncology experience."
+  },
+  {
+    "category": "Appointments",
+    "question": "Will I get a reminder before my appointment?",
+    "paraphrases": [
+      "Do you send appointment reminders?",
+      "reminder message"
+    ],
+    "answer": "Yes. Reminders are sent by email and in your account notifications the day before your appointment."
+  },
+  {
+    "category": "Fees & payment",
+    "question": "How much does a consultation cost?",
+    "paraphrases": [
+      "What is the consultation fee?",
+      "price of seeing a dermatologist",
+      "doctor fee",
+      "how much do you charge"
+    ],
+    "answer": "Consultation fees depend on the dermatologist and are shown on each doctor's profile and on the Services page. A follow-up within 4 weeks costs less than a new consultation."
+  },
+  {
+    "category": "Fees & payment",
+    "question": "How can I pay my bill?",
+    "paraphrases": [
+      "What payment methods do you accept?",
+      "Can I pay online?",
+      "pay by card",
+      "mobile payment"
+    ],
+    "answer": "You can pay at reception by cash, card or mobile banking, or pay online from the Bills page in your account."
+  },
+  {
+    "category": "Fees & payment",
+    "question": "Can I get a receipt for my payment?",
+    "paraphrases": [
+      "I need an invoice",
+      "download receipt",
+      "payment receipt"
+    ],
+    "answer": "Yes. Open Bills in your account and click the print icon to print or save the receipt as a PDF. Reception can also print one for you."
+  },
+  {
+    "category": "Fees & payment",
+    "question": "Do you offer treatment packages or discounts?",
+    "paraphrases": [
+      "Are there any discounts?",
+      "package price",
+      "cheaper sessions"
+    ],
+    "answer": "Yes, packages are available for some procedures such as chemical peels and laser sessions. Ask at reception; package discounts are applied to your invoice."
+  },
+  {
+    "category": "Treatments",
+    "question": "What skin conditions do you treat?",
+    "paraphrases": [
+      "What services do you offer?",
+      "Do you treat acne?",
+      "Do you treat eczema and psoriasis?",
+      "which problems can a dermatologist help with"
+    ],
+    "answer": "We treat all skin, hair and nail problems, including acne, eczema, psoriasis, fungal infections, hives, pigmentation, hair loss, warts and moles, and we screen for skin cancer. We also offer cosmetic procedures such as chemical peels and laser treatments."
+  },
+  {
+    "category": "Treatments",
+    "question": "What is a skin biopsy?",
+    "paraphrases": [
+      "Why do I need a biopsy?",
+      "Does a biopsy hurt?",
+      "biopsy procedure"
+    ],
+    "answer": "A biopsy removes a small piece of skin so it can be examined under a microscope. The area is numbed with a local anaesthetic, so it is not painful. It usually takes 15 minutes."
+  },
+  {
+    "category": "Treatments",
+    "question": "How long do biopsy results take?",
+    "paraphrases": [
+      "When will I get my biopsy result?",
+      "pathology report time",
+      "how many days for biopsy result"
+    ],
+    "answer": "Results usually take 5 to 7 working days. Your dermatologist reviews the report first, and then you receive a notification and can read the result under History in your account."
+  },
+  {
+    "category": "Treatments",
+    "question": "Do you do laser hair removal?",
+    "paraphrases": [
+      "laser treatment",
+      "Do you have laser for hair?",
+      "how many laser sessions"
+    ],
+    "answer": "Yes. Laser hair removal is done by our cosmetic dermatology team. Most people need 6 to 8 sessions, 4 to 6 weeks apart. A consultation is needed first to check your skin type."
+  },
+  {
+    "category": "Treatments",
+    "question": "Do you treat children?",
+    "paraphrases": [
+      "Can children see a dermatologist?",
+      "my child has a rash",
+      "kids skin problems"
+    ],
+    "answer": "Yes, our dermatologists see children of all ages. A parent or guardian must come with the child."
+  },
+  {
+    "category": "Teledermatology",
+    "question": "What is teledermatology?",
+    "paraphrases": [
+      "Can I consult online?",
+      "Can I send photos to a doctor?",
+      "online skin consultation"
+    ],
+    "answer": "Teledermatology lets you send photos and a description of your skin problem to a dermatologist from your account. The dermatologist replies online and tells you if you need an in-person visit."
+  },
+  {
+    "category": "Teledermatology",
+    "question": "How do I take a good photo of my skin?",
+    "paraphrases": [
+      "photo tips",
+      "my photo was rejected",
+      "image quality check failed",
+      "photo too blurry"
+    ],
+    "answer": "Use daylight without flash, hold the camera 10–15 cm away, keep the lesion in the centre and tap to focus. Our system checks each photo automatically and will ask you to retake it if it is blurry or too dark."
+  },
+  {
+    "category": "Teledermatology",
+    "question": "How quickly will a dermatologist reply to my online request?",
+    "paraphrases": [
+      "When will the doctor answer?",
+      "teledermatology reply time"
+    ],
+    "answer": "Most requests are answered within 1 to 2 working days. If your problem is urgent, please book an appointment or visit the clinic."
+  },
+  {
+    "category": "AI",
+    "question": "How does the AI skin analysis work?",
+    "paraphrases": [
+      "What does the AI do?",
+      "Is the AI accurate?",
+      "How does the skin lesion AI work?",
+      "artificial intelligence mole check"
+    ],
+    "answer": "Our AI model was trained on thousands of research images of skin lesions. It checks photo quality, estimates the most likely lesion type and a risk level, and shows which part of the image it focused on. A dermatologist always reviews the result."
+  },
+  {
+    "category": "AI",
+    "question": "Does the AI give me a diagnosis?",
+    "paraphrases": [
+      "Can the AI tell me if I have cancer?",
+      "Is the AI result final?",
+      "Can I trust the AI"
+    ],
+    "answer": "No. The AI is a decision-support tool for our dermatologists. You only see a result after a dermatologist has reviewed it, and the dermatologist's conclusion is the one that counts."
+  },
+  {
+    "category": "AI",
+    "question": "Are my photos and medical data private?",
+    "paraphrases": [
+      "Who can see my photos?",
+      "Is my data secure?",
+      "privacy policy"
+    ],
+    "answer": "Yes. Photos and reports are stored privately and can only be opened by you and the clinical staff treating you. Every access to medical records is logged."
+  },
+  {
+    "category": "Account",
+    "question": "How do I create an account?",
+    "paraphrases": [
+      "How do I register?",
+      "sign up",
+      "make a new account"
+    ],
+    "answer": "Click 'Register', fill in your details and choose a password. We will email you a 6-digit code to verify your email address."
+  },
+  {
+    "category": "Account",
+    "question": "I did not receive my verification code",
+    "paraphrases": [
+      "OTP not received",
+      "verification email missing",
+      "resend code"
+    ],
+    "answer": "Check your spam folder and make sure the email address is correct. On the verification page, click 'Send a new code'. Codes expire after 10 minutes."
+  },
+  {
+    "category": "Account",
+    "question": "How do I see my prescriptions and reports?",
+    "paraphrases": [
+      "Where are my test results?",
+      "view my prescription",
+      "download my report"
+    ],
+    "answer": "Log in and open History for prescriptions and biopsy results, or Reports for skin analysis reports. Each one can be printed or saved as a PDF."
+  },
+  {
+    "category": "Skin care",
+    "question": "What sunscreen should I use?",
+    "paraphrases": [
+      "Which SPF is best?",
+      "How often should I apply sunscreen?",
+      "sun protection advice"
+    ],
+    "answer": "Use a broad-spectrum sunscreen with SPF 30 or higher every day. Apply generously 15 minutes before going outside and reapply every 2 hours, and after swimming or sweating."
+  },
+  {
+    "category": "Skin care",
+    "question": "When should I get a mole checked?",
+    "paraphrases": [
+      "Is my mole dangerous?",
+      "signs of skin cancer",
+      "mole changing colour",
+      "ABCDE rule"
+    ],
+    "answer": "Get a mole checked if it is asymmetric, has an irregular border, several colours, is larger than 6 mm, or is changing in size, shape or colour, or if it itches or bleeds. Book a mole check with one of our dermatologists."
+  },
+  {
+    "category": "Skin care",
+    "question": "How can I reduce acne at home?",
+    "paraphrases": [
+      "acne tips",
+      "How to stop pimples?",
+      "skin care routine for acne"
+    ],
+    "answer": "Wash your face gently twice a day, use non-comedogenic moisturiser and sunscreen, and avoid squeezing pimples. Products with benzoyl peroxide or adapalene can help. If acne leaves marks or does not improve in 8 weeks, see a dermatologist."
+  },
+  {
+    "category": "Skin care",
+    "question": "How should I care for eczema-prone skin?",
+    "paraphrases": [
+      "dry itchy skin",
+      "eczema tips",
+      "best moisturiser for eczema"
+    ],
+    "answer": "Moisturise at least twice daily, especially right after bathing, use lukewarm water and fragrance-free cleansers, and wear soft cotton clothes. See a dermatologist if itching disturbs sleep or the skin becomes infected."
+  }
+]
